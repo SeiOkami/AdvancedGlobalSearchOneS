@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="800847ed-b960-4563-9918-2df326692e73">
+  <name>РасширенныйГлобальныйПоиск</name>
+  <synonym>
+    <key>ru</key>
+    <value>Расширенный глобальный поиск</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <managedApplicationModule>Extended</managedApplicationModule>
+    <defaultLanguage>Checked</defaultLanguage>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="47b0d821-30a8-4adc-ac0e-7a9c1675de56"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="cc46e38b-debd-43d0-945e-190b183a9ae1"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="57725cfa-5def-4b04-8fa3-bee226cdb4e9"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="fe4c9c79-e6eb-4c95-8f97-43c304eba8d2"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="0390d0aa-b40b-487b-86d4-ab2453de84fb"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="06a7988c-7299-467a-9dcb-d9fb778477c2"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="c8241f1e-71e8-47f7-a5dd-1f2d561dadc5"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>РГП_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <languages uuid="89694150-76ca-46ea-a1fb-c4403e968aaf" extendedConfigurationObject="db4a9ccb-9ef5-4b3c-8577-b6fe5db1b62e">
+    <name>Русский</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
+  </languages>
+  <commonModules>CommonModule.РГП_ГлобальныйПоискСервер</commonModules>
+  <commonModules>CommonModule.РГП_ГлобальныйПоискПовтИсп</commonModules>
+</mdclass:Configuration>
