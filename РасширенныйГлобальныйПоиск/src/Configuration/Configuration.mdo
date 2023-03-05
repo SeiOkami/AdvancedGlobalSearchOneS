@@ -19,6 +19,7 @@
   <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
   <namePrefix>РГП_</namePrefix>
   <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <scriptVariant>Russian</scriptVariant>
   <vendor>https://github.com/SeiOkami/AdvancedGlobalSearchOneS</vendor>
   <version>0.1.1</version>
@@ -30,4 +31,7 @@
   <commonModules>CommonModule.РГП_ГлобальныйПоискСервер</commonModules>
   <commonModules>CommonModule.РГП_ГлобальныйПоискПовтИсп</commonModules>
   <commonModules>CommonModule.РГП_ГлобальныйПоискСерверПереопределяемый</commonModules>
+  <commonModules>CommonModule.РГП_ГлобальныйПоискКлиент</commonModules>
+  <commonModules>CommonModule.РГП_ГлобальныйПоискКлиентСервер</commonModules>
+  <commonModules>CommonModule.РГП_ГлобальныйПоискКлиентПереопределяемый</commonModules>
 </mdclass:Configuration>
