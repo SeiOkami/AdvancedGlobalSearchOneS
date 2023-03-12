@@ -8,6 +8,7 @@
   <objectBelonging>Adopted</objectBelonging>
   <extension xsi:type="mdclassExtension:ConfigurationExtension">
     <managedApplicationModule>Extended</managedApplicationModule>
+    <sessionModule>Extended</sessionModule>
   </extension>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="47b0d821-30a8-4adc-ac0e-7a9c1675de56"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="cc46e38b-debd-43d0-945e-190b183a9ae1"/>
@@ -22,16 +23,18 @@
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <scriptVariant>Russian</scriptVariant>
   <vendor>https://github.com/SeiOkami/AdvancedGlobalSearchOneS</vendor>
-  <version>0.1.1</version>
+  <version>0.2.1</version>
   <languages uuid="89694150-76ca-46ea-a1fb-c4403e968aaf">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
     <extension xsi:type="mdclassExtension:LanguageExtension"/>
   </languages>
-  <commonModules>CommonModule.РГП_ГлобальныйПоискСервер</commonModules>
-  <commonModules>CommonModule.РГП_ГлобальныйПоискПовтИсп</commonModules>
-  <commonModules>CommonModule.РГП_ГлобальныйПоискСерверПереопределяемый</commonModules>
+  <commonPictures>CommonPicture.РГП_GitHub</commonPictures>
   <commonModules>CommonModule.РГП_ГлобальныйПоискКлиент</commonModules>
-  <commonModules>CommonModule.РГП_ГлобальныйПоискКлиентСервер</commonModules>
   <commonModules>CommonModule.РГП_ГлобальныйПоискКлиентПереопределяемый</commonModules>
+  <commonModules>CommonModule.РГП_ГлобальныйПоискКлиентПовтИсп</commonModules>
+  <commonModules>CommonModule.РГП_ГлобальныйПоискКлиентСервер</commonModules>
+  <commonModules>CommonModule.РГП_ГлобальныйПоискСервер</commonModules>
+  <commonModules>CommonModule.РГП_ГлобальныйПоискСерверПереопределяемый</commonModules>
+  <commonModules>CommonModule.РГП_ГлобальныйПоискСерверПовтИсп</commonModules>
 </mdclass:Configuration>
