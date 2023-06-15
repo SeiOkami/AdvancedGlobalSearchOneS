@@ -37,4 +37,5 @@
   <commonModules>CommonModule.РГП_ГлобальныйПоискСервер</commonModules>
   <commonModules>CommonModule.РГП_ГлобальныйПоискСерверПереопределяемый</commonModules>
   <commonModules>CommonModule.РГП_ГлобальныйПоискСерверПовтИсп</commonModules>
+  <commonModules>CommonModule.РГП_ГлобальныйПоискВызовСервера</commonModules>
 </mdclass:Configuration>
