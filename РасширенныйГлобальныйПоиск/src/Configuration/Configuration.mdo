@@ -23,7 +23,7 @@
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <scriptVariant>Russian</scriptVariant>
   <vendor>https://github.com/SeiOkami/AdvancedGlobalSearchOneS</vendor>
-  <version>1.1.2</version>
+  <version>1.1.3</version>
   <languages uuid="89694150-76ca-46ea-a1fb-c4403e968aaf">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
