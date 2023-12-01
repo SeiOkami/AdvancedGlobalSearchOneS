@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="cca1237f-30dd-4981-b32e-5006ce029795">
+  <name>РасширенныйГлобальныйПоиск_Тестирование</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тестирование &quot;Расширенный глобальный поиск&quot;</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <usePurposes>Checked</usePurposes>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+    <compatibilityMode>Checked</compatibilityMode>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="3a5a858f-d4f9-4301-973f-4123dfd73079"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="09c64879-53c1-47bf-b5b1-42e199d3b591"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="4ad7ea45-b477-4e24-a801-c242d48d2ccf"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="36717b94-10f4-4bc7-8d98-a683a14367bb"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="fcad3c10-3fab-4240-b371-6e9cb4ff039c"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="2ba93305-17d5-4a24-aea8-1a94b6d2612c"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="f861e7ae-cbe5-4928-a43a-8b06e0776183"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>РГПТ_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.21</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
+  <compatibilityMode>8.3.21</compatibilityMode>
+  <languages uuid="b0d74ff7-68b0-491a-9781-510bf30ee6ed">
+    <name>Русский</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
+  </languages>
+  <commonModules>CommonModule.РГПТ_ГлобальныйПоискКлиент</commonModules>
+  <commonModules>CommonModule.РГПТ_ГлобальныйПоискКлиентСервер</commonModules>
+  <commonModules>CommonModule.РГПТ_ГлобальныйПоискСервер</commonModules>
+  <commonModules>CommonModule.РГПТ_Движок</commonModules>
+  <commonModules>CommonModule.РГПТ_Модули</commonModules>
+</mdclass:Configuration>
