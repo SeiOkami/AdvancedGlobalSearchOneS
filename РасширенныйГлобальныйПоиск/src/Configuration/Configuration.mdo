@@ -29,6 +29,7 @@
     <extension xsi:type="mdclassExtension:LanguageExtension"/>
   </languages>
   <commonPictures>CommonPicture.РГП_GitHub</commonPictures>
+  <commonPictures>CommonPicture.РГП_Меню</commonPictures>
   <commonModules>CommonModule.РГП_ГлобальныйПоискКлиент</commonModules>
   <commonModules>CommonModule.РГП_ГлобальныйПоискКлиентПереопределяемый</commonModules>
   <commonModules>CommonModule.РГП_ГлобальныйПоискКлиентПовтИсп</commonModules>
