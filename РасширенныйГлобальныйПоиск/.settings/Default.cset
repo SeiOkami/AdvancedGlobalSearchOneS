@@ -12,9 +12,6 @@
     },
     "module-consecutive-blank-lines": {
       "enabled": true
-    },
-    "bsl-ql-hub": {
-      "enabled": true
     }
   }
 }
