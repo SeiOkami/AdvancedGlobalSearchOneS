@@ -25,10 +25,10 @@
     "bsl-canonical-pragma": {
       "enabled": false
     },
-    "doc-comment-use-minus": {
+    "module-region-empty": {
       "enabled": false
     },
-    "module-region-empty": {
+    "doc-comment-use-minus": {
       "enabled": false
     },
     "doc-comment-type": {
@@ -53,6 +53,9 @@
       "enabled": false
     },
     "extension-variable-prefix": {
+      "enabled": false
+    },
+    "structure-consructor-too-many-keys": {
       "enabled": false
     },
     "bsl-nstr-string-literal-format": {
