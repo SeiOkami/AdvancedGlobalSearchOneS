@@ -85,6 +85,7 @@
   <commonModules>CommonModule.РГП_ГлобальныйПоискКлиентПереопределяемый</commonModules>
   <commonModules>CommonModule.РГП_ГлобальныйПоискКлиентПовтИсп</commonModules>
   <commonModules>CommonModule.РГП_ГлобальныйПоискКлиентСервер</commonModules>
+  <commonModules>CommonModule.РГП_ГлобальныйПоискКлиентСерверПовтИсп</commonModules>
   <commonModules>CommonModule.РГП_ГлобальныйПоискСервер</commonModules>
   <commonModules>CommonModule.РГП_ГлобальныйПоискСерверПереопределяемый</commonModules>
   <commonModules>CommonModule.РГП_ГлобальныйПоискСерверПовтИсп</commonModules>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7a73453d-7ec5-49cb-8f50-9b8b3e0d942a">
+  <name>РГП_ГлобальныйПоискКлиентСерверПовтИсп</name>
+  <synonym>
+    <key>en</key>
+    <value>Advanced global search client server cached (AGS)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Глобальный поиск клиент сервер повт исп (РГП)</value>
+  </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
+  <server>true</server>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+  <returnValuesReuse>DuringSession</returnValuesReuse>
+</mdclass:CommonModule>
