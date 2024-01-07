@@ -217,6 +217,14 @@
   <showCloseButton>true</showCloseButton>
   <attributes>
     <name>ПолнаяСтрокаПоиска</name>
+    <title>
+      <key>en</key>
+      <value>Full search string</value>
+    </title>
+    <title>
+      <key>ru</key>
+      <value>Полная строка поиска</value>
+    </title>
     <id>1</id>
     <valueType>
       <types>String</types>
@@ -231,6 +239,14 @@
   </attributes>
   <attributes>
     <name>Представление</name>
+    <title>
+      <key>en</key>
+      <value>Presentation</value>
+    </title>
+    <title>
+      <key>ru</key>
+      <value>Представление</value>
+    </title>
     <id>2</id>
     <valueType>
       <types>String</types>
@@ -245,6 +261,14 @@
   </attributes>
   <attributes>
     <name>ИзначальнаяСтрокаПоиска</name>
+    <title>
+      <key>en</key>
+      <value>Initial search string</value>
+    </title>
+    <title>
+      <key>ru</key>
+      <value>Изначальная строка поиска</value>
+    </title>
     <id>4</id>
     <valueType>
       <types>String</types>
@@ -259,6 +283,14 @@
   </attributes>
   <attributes>
     <name>ОписаниеОповещения</name>
+    <title>
+      <key>en</key>
+      <value>Callback description</value>
+    </title>
+    <title>
+      <key>ru</key>
+      <value>Описание оповещения</value>
+    </title>
     <id>5</id>
     <valueType/>
     <view>
@@ -270,6 +302,14 @@
   </attributes>
   <formCommands>
     <name>Сохранить</name>
+    <title>
+      <key>en</key>
+      <value>Save</value>
+    </title>
+    <title>
+      <key>ru</key>
+      <value>Сохранить</value>
+    </title>
     <id>2</id>
     <use>
       <common>true</common>
@@ -287,6 +327,14 @@
   </formCommands>
   <formCommands>
     <name>Удалить</name>
+    <title>
+      <key>en</key>
+      <value>Delete</value>
+    </title>
+    <title>
+      <key>ru</key>
+      <value>Удалить</value>
+    </title>
     <id>3</id>
     <use>
       <common>true</common>
@@ -304,6 +352,14 @@
   </formCommands>
   <formCommands>
     <name>Закрыть</name>
+    <title>
+      <key>en</key>
+      <value>Close</value>
+    </title>
+    <title>
+      <key>ru</key>
+      <value>Закрыть</value>
+    </title>
     <id>4</id>
     <use>
       <common>true</common>

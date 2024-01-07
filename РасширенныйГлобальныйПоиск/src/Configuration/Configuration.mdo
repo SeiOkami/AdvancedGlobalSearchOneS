@@ -79,6 +79,7 @@
     </extension>
     <languageCode>ru</languageCode>
   </languages>
+  <styleItems>StyleItem.РГП_ШрифтМеню</styleItems>
   <commonPictures>CommonPicture.РГП_GitHub</commonPictures>
   <commonModules>CommonModule.РГП_ГлобальныйПоискВызовСервера</commonModules>
   <commonModules>CommonModule.РГП_ГлобальныйПоискКлиент</commonModules>

@@ -664,6 +664,14 @@
   </attributes>
   <attributes>
     <name>НайденныеСсылки</name>
+    <title>
+      <key>en</key>
+      <value>Found links</value>
+    </title>
+    <title>
+      <key>ru</key>
+      <value>Найденные ссылки</value>
+    </title>
     <id>2</id>
     <valueType>
       <types>ValueTable</types>
@@ -676,6 +684,14 @@
     </edit>
     <columns>
       <name>Ссылка</name>
+      <title>
+        <key>en</key>
+        <value>Link</value>
+      </title>
+      <title>
+        <key>ru</key>
+        <value>Ссылка</value>
+      </title>
       <id>3</id>
       <valueType/>
       <view>
@@ -687,6 +703,14 @@
     </columns>
     <columns>
       <name>ВидПоиска</name>
+      <title>
+        <key>en</key>
+        <value>Type of search</value>
+      </title>
+      <title>
+        <key>ru</key>
+        <value>Вид поиска</value>
+      </title>
       <id>4</id>
       <valueType>
         <types>String</types>
@@ -701,6 +725,14 @@
     </columns>
     <columns>
       <name>Представление</name>
+      <title>
+        <key>en</key>
+        <value>Presentation</value>
+      </title>
+      <title>
+        <key>ru</key>
+        <value>Представление</value>
+      </title>
       <id>9</id>
       <valueType>
         <types>String</types>
@@ -716,6 +748,14 @@
   </attributes>
   <attributes>
     <name>ВидыПоиска</name>
+    <title>
+      <key>en</key>
+      <value>Types of searches</value>
+    </title>
+    <title>
+      <key>ru</key>
+      <value>Виды поиска</value>
+    </title>
     <id>5</id>
     <valueType>
       <types>ValueList</types>
@@ -732,6 +772,10 @@
   </attributes>
   <attributes>
     <name>ТочноеСовпадение</name>
+    <title>
+      <key>en</key>
+      <value>Exact match</value>
+    </title>
     <title>
       <key>ru</key>
       <value>Точное совпадение</value>
@@ -750,6 +794,10 @@
   <attributes>
     <name>СтрокаПоиска</name>
     <title>
+      <key>en</key>
+      <value>Search bar</value>
+    </title>
+    <title>
       <key>ru</key>
       <value>Строка поиска</value>
     </title>
@@ -767,6 +815,14 @@
   </attributes>
   <formCommands>
     <name>НайтиСсылки</name>
+    <title>
+      <key>en</key>
+      <value>Find links</value>
+    </title>
+    <title>
+      <key>ru</key>
+      <value>Найти ссылки</value>
+    </title>
     <title>
       <key>ru1</key>
       <value>Найти</value>
