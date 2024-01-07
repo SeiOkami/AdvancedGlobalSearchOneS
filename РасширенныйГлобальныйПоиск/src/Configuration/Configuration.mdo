@@ -2,12 +2,17 @@
 <mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="800847ed-b960-4563-9918-2df326692e73">
   <name>РасширенныйГлобальныйПоиск</name>
   <synonym>
+    <key>en</key>
+    <value>Advanced global search (github.com/SeiOkami)</value>
+  </synonym>
+  <synonym>
     <key>ru</key>
-    <value>Расширенный глобальный поиск</value>
+    <value>Расширенный глобальный поиск (github.com/SeiOkami)</value>
   </synonym>
   <objectBelonging>Adopted</objectBelonging>
   <extension xsi:type="mdclassExtension:ConfigurationExtension">
     <managedApplicationModule>Extended</managedApplicationModule>
+    <defaultLanguage>Checked</defaultLanguage>
   </extension>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="47b0d821-30a8-4adc-ac0e-7a9c1675de56"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="cc46e38b-debd-43d0-945e-190b183a9ae1"/>
@@ -23,20 +28,68 @@
   <scriptVariant>Russian</scriptVariant>
   <vendor>https://github.com/SeiOkami/AdvancedGlobalSearchOneS</vendor>
   <version>1.1.6</version>
-  <languages uuid="89694150-76ca-46ea-a1fb-c4403e968aaf">
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <detailedInformation>
+    <key>en</key>
+    <value>Global search extension. Allows you to create a custom menu in the global search field.</value>
+  </detailedInformation>
+  <detailedInformation>
+    <key>ru</key>
+    <value>Расширение глобального поиска 1С. Позволяет создавать пользовательское меню в поле глобального поиска.</value>
+  </detailedInformation>
+  <copyright>
+    <key>en</key>
+    <value>Vitaliy Chernenko https://github.com/SeiOkami</value>
+  </copyright>
+  <copyright>
+    <key>ru</key>
+    <value>Виталий Черненко https://github.com/SeiOkami</value>
+  </copyright>
+  <vendorInformationAddress>
+    <key>en</key>
+    <value>https://github.com/SeiOkami</value>
+  </vendorInformationAddress>
+  <vendorInformationAddress>
+    <key>ru</key>
+    <value>https://github.com/SeiOkami</value>
+  </vendorInformationAddress>
+  <configurationInformationAddress>
+    <key>en</key>
+    <value>https://github.com/SeiOkami/AdvancedGlobalSearchOneS</value>
+  </configurationInformationAddress>
+  <configurationInformationAddress>
+    <key>ru</key>
+    <value>https://github.com/SeiOkami/AdvancedGlobalSearchOneS</value>
+  </configurationInformationAddress>
+  <languages uuid="320fe00a-fb59-4d20-bc93-6e1015e06030" extendedConfigurationObject="f463396b-e1a8-4586-8d64-df5abc908f41">
+    <name>English</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>en</languageCode>
+  </languages>
+  <languages uuid="2813a14a-67d7-4eef-a8d7-a4dbfa594ffa" extendedConfigurationObject="db4a9ccb-9ef5-4b3c-8577-b6fe5db1b62e">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
-    <extension xsi:type="mdclassExtension:LanguageExtension"/>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <extendedConfigurationObject>Checked</extendedConfigurationObject>
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
   </languages>
+  <styleItems>StyleItem.РГП_ШрифтМеню</styleItems>
   <commonPictures>CommonPicture.РГП_GitHub</commonPictures>
+  <commonModules>CommonModule.РГП_ГлобальныйПоискВызовСервера</commonModules>
   <commonModules>CommonModule.РГП_ГлобальныйПоискКлиент</commonModules>
   <commonModules>CommonModule.РГП_ГлобальныйПоискКлиентПереопределяемый</commonModules>
   <commonModules>CommonModule.РГП_ГлобальныйПоискКлиентПовтИсп</commonModules>
   <commonModules>CommonModule.РГП_ГлобальныйПоискКлиентСервер</commonModules>
+  <commonModules>CommonModule.РГП_ГлобальныйПоискКлиентСерверПовтИсп</commonModules>
   <commonModules>CommonModule.РГП_ГлобальныйПоискСервер</commonModules>
   <commonModules>CommonModule.РГП_ГлобальныйПоискСерверПереопределяемый</commonModules>
   <commonModules>CommonModule.РГП_ГлобальныйПоискСерверПовтИсп</commonModules>
-  <commonModules>CommonModule.РГП_ГлобальныйПоискВызовСервера</commonModules>
   <commonForms>CommonForm.РГП_БыстрыйПоискСсылки</commonForms>
   <commonForms>CommonForm.РГП_ДинамическийСписок</commonForms>
   <commonForms>CommonForm.РГП_ЭлементИзбранного</commonForms>

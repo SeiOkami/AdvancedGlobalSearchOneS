@@ -2,8 +2,12 @@
 <mdclass:CommonForm xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c2922bbf-16ec-4cb1-99fb-a714fc990c9c">
   <name>РГП_БыстрыйПоискСсылки</name>
   <synonym>
-    <key>ru1</key>
-    <value>Быстрый поиск ссылок</value>
+    <key>en</key>
+    <value>Fast link search (AGS)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Быстрый поиск ссылок (РГП)</value>
   </synonym>
   <usePurposes>PersonalComputer</usePurposes>
   <usePurposes>MobileDevice</usePurposes>

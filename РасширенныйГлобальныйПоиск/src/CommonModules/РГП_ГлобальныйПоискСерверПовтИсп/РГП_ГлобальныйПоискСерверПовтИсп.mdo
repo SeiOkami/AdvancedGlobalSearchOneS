@@ -2,8 +2,12 @@
 <mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bb5aebf7-4f4b-4380-b9f8-cc41ec78fd34">
   <name>РГП_ГлобальныйПоискСерверПовтИсп</name>
   <synonym>
+    <key>en</key>
+    <value>Advanced global search server cached (AGS)</value>
+  </synonym>
+  <synonym>
     <key>ru</key>
-    <value>РГП глобальный поиск сервер повт исп</value>
+    <value>Глобальный поиск сервер повт. исп (РГП)</value>
   </synonym>
   <server>true</server>
   <externalConnection>true</externalConnection>
