@@ -364,7 +364,6 @@
     <use>
       <common>true</common>
     </use>
-    <shortcut>Esc</shortcut>
     <picture xsi:type="core:PictureRef">
       <picture>StdPicture.Close</picture>
     </picture>
