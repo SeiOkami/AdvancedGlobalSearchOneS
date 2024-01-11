@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b7296195-f101-4789-8347-5708acf8b673">
-  <name>РГП_ГлобальныйПоискСерверПереопределяемый</name>
+  <name>РГП_ГлобальныйПоискСерверПереопределяемый_Шаблон</name>
   <synonym>
     <key>en</key>
     <value>Advanced global search server overridable (AGS)</value>
