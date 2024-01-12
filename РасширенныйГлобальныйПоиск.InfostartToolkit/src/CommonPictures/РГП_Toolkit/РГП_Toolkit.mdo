@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="026f550c-bc88-4a96-ad2c-b10ee5631927">
+  <name>РГП_Toolkit</name>
+  <synonym>
+    <key>ru</key>
+    <value>Toolkit</value>
+  </synonym>
+  <synonym>
+    <key>en</key>
+    <value>Toolkit</value>
+  </synonym>
+</mdclass:CommonPicture>
