@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2f178442-2a69-4048-9a66-b72c71fc5b11">
   <name>РГП_ГлобальныйПоискКлиентСервер</name>
+  <synonym>
+    <key>en</key>
+    <value>Advanced global search client server (AGS)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Глобальный поиск клиент сервер (РГП)</value>
+  </synonym>
   <clientManagedApplication>true</clientManagedApplication>
   <server>true</server>
   <externalConnection>true</externalConnection>

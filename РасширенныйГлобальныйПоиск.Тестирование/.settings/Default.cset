@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "settings": {
+    "notify-description-to-server-procedure": {
+      "enabled": false
+    },
+    "mdo-name-length": {
+      "enabled": false
+    },
+    "code-after-async-call": {
+      "enabled": false
+    },
+    "doc-comment-parameter-in-description-suggestion": {
+      "enabled": false
+    },
+    "doc-comment-procedure-return-section": {
+      "enabled": false
+    },
+    "doc-comment-complex-type-with-link": {
+      "enabled": false
+    },
+    "method-isinrole-role-exist": {
+      "enabled": false
+    },
+    "bsl-canonical-pragma": {
+      "enabled": false
+    },
+    "module-region-empty": {
+      "enabled": false
+    },
+    "doc-comment-use-minus": {
+      "enabled": false
+    },
+    "doc-comment-type": {
+      "enabled": false
+    },
+    "extension-method-prefix": {
+      "enabled": false
+    },
+    "doc-comment-field-name": {
+      "enabled": false
+    },
+    "doc-comment-field-in-description-suggestion": {
+      "enabled": false
+    },
+    "module-empty-method": {
+      "enabled": false
+    },
+    "module-unused-local-variable": {
+      "enabled": false
+    },
+    "doc-comment-ref-link": {
+      "enabled": false
+    },
+    "extension-variable-prefix": {
+      "enabled": false
+    },
+    "structure-consructor-too-many-keys": {
+      "enabled": false
+    },
+    "bsl-nstr-string-literal-format": {
+      "enabled": false
+    },
+    "module-unused-method": {
+      "enabled": false
+    },
+    "change-and-validate-instead-of-around": {
+      "enabled": false
+    }
+  }
+}

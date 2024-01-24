@@ -10,16 +10,7 @@
     "commit-transaction": {
       "enabled": true
     },
-    "doc-comment-description-ends-on-dot": {
-      "enabled": true
-    },
     "module-consecutive-blank-lines": {
-      "enabled": true
-    },
-    "redundant-export-method": {
-      "enabled": true
-    },
-    "bsl-ql-hub": {
       "enabled": true
     }
   }

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ff0fb1b9-f0fa-45a1-b76d-0de85bf8bb4b">
+  <name>РГПТ_ГлобальныйПоискКлиент</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тестирование &quot;Глобальный поиск клиент&quot;</value>
+  </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

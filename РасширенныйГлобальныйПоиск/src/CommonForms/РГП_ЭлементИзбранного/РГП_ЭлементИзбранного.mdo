@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonForm xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="952e6140-c23c-4605-9a82-b399d43f3ff4">
+  <name>РГП_ЭлементИзбранного</name>
+  <synonym>
+    <key>en</key>
+    <value>Favorite element (AGS)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Элемент избранного (РГП)</value>
+  </synonym>
+  <usePurposes>PersonalComputer</usePurposes>
+  <usePurposes>MobileDevice</usePurposes>
+</mdclass:CommonForm>
