@@ -27,7 +27,7 @@
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <scriptVariant>Russian</scriptVariant>
   <vendor>https://github.com/SeiOkami/AdvancedGlobalSearchOneS</vendor>
-  <version>1.1.6</version>
+  <version>2.1.1</version>
   <defaultLanguage>Language.Русский</defaultLanguage>
   <detailedInformation>
     <key>en</key>
