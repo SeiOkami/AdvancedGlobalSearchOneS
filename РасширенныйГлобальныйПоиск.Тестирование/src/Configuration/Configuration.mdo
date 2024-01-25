@@ -28,14 +28,6 @@
   <scriptVariant>Russian</scriptVariant>
   <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
   <compatibilityMode>8.3.21</compatibilityMode>
-  <languages uuid="b0d74ff7-68b0-491a-9781-510bf30ee6ed">
-    <name>Русский</name>
-    <objectBelonging>Adopted</objectBelonging>
-    <extension xsi:type="mdclassExtension:LanguageExtension">
-      <languageCode>Checked</languageCode>
-    </extension>
-    <languageCode>ru</languageCode>
-  </languages>
   <commonModules>CommonModule.РГПТ_ГлобальныйПоискКлиент</commonModules>
   <commonModules>CommonModule.РГПТ_ГлобальныйПоискКлиентСервер</commonModules>
   <commonModules>CommonModule.РГПТ_ГлобальныйПоискСервер</commonModules>
