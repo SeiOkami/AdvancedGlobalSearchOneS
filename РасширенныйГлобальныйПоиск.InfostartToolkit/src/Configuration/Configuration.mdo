@@ -9,7 +9,6 @@
   <extension xsi:type="mdclassExtension:ConfigurationExtension">
     <defaultRunMode>Checked</defaultRunMode>
     <usePurposes>Checked</usePurposes>
-    <defaultLanguage>Checked</defaultLanguage>
     <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
   </extension>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="5c43eca6-da86-40f0-936a-a82514b7df25"/>
@@ -28,23 +27,6 @@
   <scriptVariant>Russian</scriptVariant>
   <defaultLanguage>Language.Русский</defaultLanguage>
   <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
-  <languages uuid="ce120cbf-41da-43a9-a05e-d8dab3387b72">
-    <name>Русский</name>
-    <objectBelonging>Adopted</objectBelonging>
-    <extension xsi:type="mdclassExtension:LanguageExtension">
-      <languageCode>Checked</languageCode>
-    </extension>
-    <languageCode>ru</languageCode>
-  </languages>
-  <languages uuid="b7bc535b-bedf-43d3-af5b-9a8b91993ff2" extendedConfigurationObject="f463396b-e1a8-4586-8d64-df5abc908f41">
-    <name>English</name>
-    <objectBelonging>Adopted</objectBelonging>
-    <extension xsi:type="mdclassExtension:LanguageExtension">
-      <extendedConfigurationObject>Checked</extendedConfigurationObject>
-      <languageCode>Checked</languageCode>
-    </extension>
-    <languageCode>en</languageCode>
-  </languages>
   <commonPictures>CommonPicture.РГП_Toolkit</commonPictures>
   <commonModules>CommonModule.РГП_ГлобальныйПоискКлиентПереопределяемый_InfostartToolkit</commonModules>
 </mdclass:Configuration>
