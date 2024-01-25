@@ -28,7 +28,7 @@
   <scriptVariant>Russian</scriptVariant>
   <vendor>https://github.com/SeiOkami/AdvancedGlobalSearchOneS</vendor>
   <version>2.1.1</version>
-  <defaultLanguage>Language.Русский</defaultLanguage>
+  <defaultLanguage>Language.English</defaultLanguage>
   <detailedInformation>
     <key>en</key>
     <value>Global search extension. Allows you to create a custom menu in the global search field.</value>
@@ -69,15 +69,6 @@
       <languageCode>Checked</languageCode>
     </extension>
     <languageCode>en</languageCode>
-  </languages>
-  <languages uuid="2813a14a-67d7-4eef-a8d7-a4dbfa594ffa" extendedConfigurationObject="db4a9ccb-9ef5-4b3c-8577-b6fe5db1b62e">
-    <name>Русский</name>
-    <objectBelonging>Adopted</objectBelonging>
-    <extension xsi:type="mdclassExtension:LanguageExtension">
-      <extendedConfigurationObject>Checked</extendedConfigurationObject>
-      <languageCode>Checked</languageCode>
-    </extension>
-    <languageCode>ru</languageCode>
   </languages>
   <styleItems>StyleItem.РГП_ШрифтМеню</styleItems>
   <commonPictures>CommonPicture.РГП_GitHub</commonPictures>
