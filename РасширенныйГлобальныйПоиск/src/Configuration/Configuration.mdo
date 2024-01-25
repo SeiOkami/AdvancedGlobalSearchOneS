@@ -61,14 +61,14 @@
     <key>ru</key>
     <value>https://github.com/SeiOkami/AdvancedGlobalSearchOneS</value>
   </configurationInformationAddress>
-  <languages uuid="2813a14a-67d7-4eef-a8d7-a4dbfa594ffa" extendedConfigurationObject="db4a9ccb-9ef5-4b3c-8577-b6fe5db1b62e">
-    <name>Русский</name>
+  <languages uuid="320fe00a-fb59-4d20-bc93-6e1015e06030" extendedConfigurationObject="f463396b-e1a8-4586-8d64-df5abc908f41">
+    <name>English</name>
     <objectBelonging>Adopted</objectBelonging>
     <extension xsi:type="mdclassExtension:LanguageExtension">
       <extendedConfigurationObject>Checked</extendedConfigurationObject>
       <languageCode>Checked</languageCode>
     </extension>
-    <languageCode>ru</languageCode>
+    <languageCode>en</languageCode>
   </languages>
   <styleItems>StyleItem.РГП_ШрифтМеню</styleItems>
   <commonPictures>CommonPicture.РГП_GitHub</commonPictures>
