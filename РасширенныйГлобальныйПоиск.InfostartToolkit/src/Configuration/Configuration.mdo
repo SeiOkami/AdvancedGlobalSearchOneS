@@ -25,7 +25,6 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
-  <defaultLanguage>Language.Русский</defaultLanguage>
   <interfaceCompatibilityMode>TaxiEnableVersion8_2</interfaceCompatibilityMode>
   <commonPictures>CommonPicture.РГП_Toolkit</commonPictures>
   <commonModules>CommonModule.РГП_ГлобальныйПоискКлиентПереопределяемый_InfostartToolkit</commonModules>
