@@ -36,15 +36,6 @@
     </extension>
     <languageCode>ru</languageCode>
   </languages>
-  <languages uuid="b7bc535b-bedf-43d3-af5b-9a8b91993ff2" extendedConfigurationObject="f463396b-e1a8-4586-8d64-df5abc908f41">
-    <name>English</name>
-    <objectBelonging>Adopted</objectBelonging>
-    <extension xsi:type="mdclassExtension:LanguageExtension">
-      <extendedConfigurationObject>Checked</extendedConfigurationObject>
-      <languageCode>Checked</languageCode>
-    </extension>
-    <languageCode>en</languageCode>
-  </languages>
   <commonPictures>CommonPicture.РГП_Toolkit</commonPictures>
   <commonModules>CommonModule.РГП_ГлобальныйПоискКлиентПереопределяемый_InfostartToolkit</commonModules>
 </mdclass:Configuration>
