@@ -283,7 +283,8 @@
 
 - [Страница проекта](https://github.com/SeiOkami/AdvancedGlobalSearchOneS)
 - [Обзорная статья на Инфостарт](https://infostart.ru/public/1833872/?ref=1159)
-- [Видео с демонстрацией](https://youtu.be/8KJ0HJLL4hc)
+- [Видео с демонстрацией (новый релиз)](https://youtu.be/0I4q8iwWpPQ)
+- [Видео с демонстрацией (старый релиз)](https://youtu.be/8KJ0HJLL4hc)
 - [Новости проекта](https://t.me/JuniorOneS)
 - [По всем вопросам](https://t.me/SeiOkami)
 
