@@ -1,3 +1,5 @@
+[![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.org/data/badges/1/609629774.json)](https://openyellow.org/grid?data=top&repo=609629774)
+
 # Расширенный глобальный поиск 1С
 
 <details open>
